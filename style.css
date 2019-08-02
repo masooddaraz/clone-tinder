@@ -9,12 +9,12 @@ html, body {
 }
 
 body {
-  background: #63BDF7;
+  /*background: #63BDF7;*/
   overflow: hidden;
 }
 
 .demo {
-  position: absolute;
+/*  position: absolute;
   left: 50%;
   top: 50%;
   width: 30.6rem;
@@ -22,7 +22,7 @@ body {
   margin-left: -15.3rem;
   margin-top: -27rem;
   background: #F6F6F5;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);*/
 }
 .demo__header {
   height: 6rem;
